@@ -79,6 +79,7 @@ A list of remote job boards.
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. | | 1,000,000  |🌟|
 | ❇️ | [We Work Meteor](https://www.weworkmeteor.com/) |Meteor remote jobs. |[JSON](https://www.weworkmeteor.com/api/jobs)|1,000,000 |💻|
 | ❇️ | [Ethereum Jobs](http://jobs.ethercasts.com/) | Ethereum remote jobs. |[JSON](http://jobs.ethercasts.com/api/jobs) |2,000,000|💻|
+| ❇️ | [Slasify](https://slasify.com/en/) | A remote jobs board.  | | 2,000,000 |💻|
 | ❇️ | [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) | Remote cryptocurrency jobs. | | 2,000,000 |💻|
 | ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. | | 4,000,000 |🌟|
 | ❇️ | [Nodeskproject.com](https://www.nodeskproject.com/jobs/) | A remote jobs board. |  | 4,500,000 |🌟|
